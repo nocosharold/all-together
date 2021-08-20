@@ -1,0 +1,25 @@
+@import url('http://fonts.cdnfonts.com/css/avengeance-mightiest-avenger');
+
+.navbar_logo {
+    margin: 34px;
+    transform: rotate(-4deg);
+}
+
+.navbar_logo h1 {
+    font-family: 'Avengeance Mightiest Avenger', sans-serif;
+    letter-spacing: 3px;
+    text-shadow: 2px 3px 0px rgb(0, 0, 0);
+    color: white;
+    font-size: 4em;
+    margin-top: 0;
+}
+
+.navbar_logo h3 {
+    font-size: 2em;
+    margin-bottom: 0;
+    margin-left: 12px;
+    font-family: 'Avengeance Mightiest Avenger', sans-serif;
+    letter-spacing: 3px;
+    text-shadow: 2px 3px 0px rgb(0, 0, 0);
+    color: white;
+}
