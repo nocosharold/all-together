@@ -18,7 +18,7 @@ const App = () => {
             <div className="row">
                 <BrowserRouter>
                     <div className="three wide column">
-                        <h2 onClick={(e)=>alert('test')}><Link to="/biontech">biontech</Link></h2>
+                        <h2><Link to="/biontech">biontech</Link></h2>
                         <h2><Link to="/astrazeneca">astrazeneca</Link></h2>
                         <h2><Link to="/sinovac">sinovac</Link></h2>
                         <h2><Link to="/sputnik">sputnik</Link></h2>
